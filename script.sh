@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+rm /var/lib/pacman/db.lck
 pacman -Syy
 pacman -S python --noconfirm
 pacman -S lua --noconfirm
