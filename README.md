@@ -7,8 +7,8 @@ Renan2010@arch-linux~$git clone https://github.com/Renan2010/arch-linux-programm
 
 Renan2010@arch-linux~$cd arch-linux-programming-mode
 
-Renan2010@arch-linux~$chmod 755 script.sh
+Renan2010@arch-linux~/arch-linux-programming-mode$chmod 755 script.sh
 
-Renan2010@arch-linux~$sudo su
+Renan2010@arch-linux~/arch-linux-programming-mode$sudo su
 
-Renan2010@arch-linux~#./script.sh
+Renan2010@arch-linux~/arch-linux-programming-mode#./script.sh
