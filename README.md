@@ -11,4 +11,4 @@ Renan2010@arch-linux~/arch-linux-programming-mode$chmod 755 script.sh
 
 Renan2010@arch-linux~/arch-linux-programming-mode$sudo su
 
-Renan2010@arch-linux~/arch-linux-programming-mode#./script.sh
+Root@arch-linux~/arch-linux-programming-mode#./script.sh
